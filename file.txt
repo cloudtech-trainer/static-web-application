@@ -1,3 +1,2 @@
 working on git pull
 working on git fetch
-working git checkout
